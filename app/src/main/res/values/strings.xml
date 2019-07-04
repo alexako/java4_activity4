@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity4_ReyesA</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="counter_init">0</string>
+    <string name="btn_save">Save</string>
+</resources>
